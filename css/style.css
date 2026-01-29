@@ -94,7 +94,7 @@ div {
 }
 
 .green {
-    background-color: #00D800;
+    background-color: #00EB00;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid #ffffff;
@@ -102,6 +102,7 @@ div {
     border-left: none;
     border-bottom: none;
 }
+
 
 .green h2,
 .green p {
